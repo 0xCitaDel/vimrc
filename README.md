@@ -1,3 +1,3 @@
 ## The vimrc config
 
-![VIM IMAGE](./screenshots/VimLogo.png | width=100)
+<img src="./screenshots/VimLogo.png" width=100>
